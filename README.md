@@ -49,4 +49,5 @@ Designed interactive visuals and KPIs
 Built filters and slicers for user interaction
 Analyzed trends and performance metrics
 Structured dashboard for storytelling
-Work Demo:- Screenshot 2026-04-10 132154.png
+Work Demo:-
+https://github.com/srishtisingh8864-web/Cryptocurrency-/blob/7da9ebfd926c81c705a952315a1e2bd867410533/Screenshot%202026-04-10%20132141.png
