@@ -49,4 +49,4 @@ Designed interactive visuals and KPIs
 Built filters and slicers for user interaction
 Analyzed trends and performance metrics
 Structured dashboard for storytelling
-
+Work Demo:- Screenshot 2026-04-10 132154.png
